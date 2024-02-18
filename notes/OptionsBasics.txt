@@ -1,4 +1,4 @@
-Call options
+CALL OPTIONS
 ============
 Eg : SBIN OCT 460 CE
 SBIN - underlying stock
@@ -9,4 +9,25 @@ CE - nature of option, Call Option European
 Premium - price of an option.
 You can only buy options in lots (say 1500 options)
 
-THE OPTION BUYER CAN CHOOSE WHETHER TO BUY THE UNDERLYING STOCK AT THE STRIKE PRICE AT THE TIME OF EXPIRY
+THE OPTION BUYER CAN CHOOSE WHETHER TO BUY THE UNDERLYING STOCK AT THE STRIKE PRICE ON EXPIRY
+BUYER WANTS THE STOCK PRICE TO MOVE BEYOND THE STRIKE PRICE
+BREAKEVEN POINT = STRIKE PRICE + PREMIUM PAID
+MAXIMUM LOSS A BUYER CAN INCUR - Premium paid
+
+PUT OPTIONS
+===========
+Eg : RELIANCE OCT 2560 PE
+
+The PUT option buyer gets the right to sell the RELIANCE stock at 2560 (Strike price) on expiry (even if its original price at that time is say 2500)
+
+PUT option buyer makes profit if the stock price DECLINES.
+
+
+SELLING OPTIONS
+===============
+
+A MARGIN IS REQUIRED
+
+CAN YOU EXIT AN OPEN OPTION CONTRACT BEFORE EXPIRY ????
+YES, the profit or loss in this case is the delta in the premium.
+Premium keeps changing.
