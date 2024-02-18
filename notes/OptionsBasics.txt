@@ -1,0 +1,12 @@
+Call options
+============
+Eg : SBIN OCT 460 CE
+SBIN - underlying stock
+OCT - Expiry, last Thursday of Oct
+460 - Strike price, price at which the deal will happen on expiry
+CE - nature of option, Call Option European
+
+Premium - price of an option.
+You can only buy options in lots (say 1500 options)
+
+THE OPTION BUYER CAN CHOOSE WHETHER TO BUY THE UNDERLYING STOCK AT THE STRIKE PRICE AT THE TIME OF EXPIRY
